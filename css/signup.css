@@ -222,5 +222,8 @@ nav .sign-up a {
   .sign-up-div .sign-up-form form span {
     font-size: 0.6rem;
   }
+  .sign-up-div .sign-up-form form label {
+    margin-top: 0;
+  }
 }
 /*# sourceMappingURL=signup.css.map */
